@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T09:56:45.943Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="6gVmbhQpln4fuIwtsIqE" version="22.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-30T09:58:42.846Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="eC5fn4SQAAB6TYAWMCiC" version="22.1.5" type="github" pages="2">
   <diagram name="前台技術" id="7c8qTNGZ60hDIs-IYrjG">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -126,10 +126,10 @@
         <mxCell id="KeQMEPedSJVTYiUPTLQI-10" value="OS:Ubuntu 18.04" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="KeQMEPedSJVTYiUPTLQI-2">
           <mxGeometry x="5" y="105" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aTQWZBNjQGYlq98dHYXE-1" value="nginx1.18.0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KeQMEPedSJVTYiUPTLQI-2">
+        <mxCell id="aTQWZBNjQGYlq98dHYXE-1" value="nginx1.14.0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KeQMEPedSJVTYiUPTLQI-2">
           <mxGeometry x="30" y="140" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aTQWZBNjQGYlq98dHYXE-2" value="&lt;font color=&quot;#ff6666&quot;&gt;PHP7.3&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KeQMEPedSJVTYiUPTLQI-2">
+        <mxCell id="aTQWZBNjQGYlq98dHYXE-2" value="PHP7.3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KeQMEPedSJVTYiUPTLQI-2">
           <mxGeometry x="30" y="180" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j6xBE3WCnmiapYrJQ3py-36" value="&lt;h2 style=&quot;box-sizing: border-box; font-variant-ligatures: none; margin-top: 0px; margin-bottom: 0px; line-height: 1.25rem; color: rgb(51, 50, 56); font-size: 0.875rem; font-family: &amp;quot;GitLab Sans&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: left; background-color: rgb(255, 255, 255);&quot; class=&quot;gl-font-base gl-line-height-20 gl-my-0&quot;&gt;&lt;a style=&quot;box-sizing: border-box; color: rgb(51, 50, 56); text-decoration-line: none; background-color: transparent; margin-right: 0.5rem;&quot; href=&quot;https://gitlab.gamania.com/walkermedia/taipeiwalker&quot; class=&quot;text-plain gl-mr-3 js-prefetch-document&quot;&gt;taipeiwalker&lt;/a&gt;項目&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KeQMEPedSJVTYiUPTLQI-2">
@@ -196,10 +196,10 @@
         <mxCell id="j6xBE3WCnmiapYrJQ3py-5" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.linux_server;" vertex="1" parent="j6xBE3WCnmiapYrJQ3py-4">
           <mxGeometry x="30" y="40" width="70" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="j6xBE3WCnmiapYrJQ3py-6" value="OS:Ubuntu 20.4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="j6xBE3WCnmiapYrJQ3py-4">
+        <mxCell id="j6xBE3WCnmiapYrJQ3py-6" value="&lt;font color=&quot;#ff6666&quot;&gt;OS:Ubuntu 20.4&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="j6xBE3WCnmiapYrJQ3py-4">
           <mxGeometry x="10" y="105" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j6xBE3WCnmiapYrJQ3py-7" value="nginx1.18.0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="j6xBE3WCnmiapYrJQ3py-4">
+        <mxCell id="j6xBE3WCnmiapYrJQ3py-7" value="&lt;font color=&quot;#ff9999&quot;&gt;nginx1.18.0&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="j6xBE3WCnmiapYrJQ3py-4">
           <mxGeometry x="30" y="140" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j6xBE3WCnmiapYrJQ3py-8" value="&lt;font color=&quot;#ff6666&quot;&gt;PHP8.1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="j6xBE3WCnmiapYrJQ3py-4">
