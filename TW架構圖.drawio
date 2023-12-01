@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T03:35:59.469Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="TK9jxbRO_KEJOBOwX5GF" version="22.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-01T03:38:04.512Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="bc3sb4xLTtZPwpqqFeiX" version="22.1.5" type="github" pages="2">
   <diagram name="前台技術" id="7c8qTNGZ60hDIs-IYrjG">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -183,7 +183,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="j6xBE3WCnmiapYrJQ3py-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="j6xBE3WCnmiapYrJQ3py-4" target="bmBmT1ZASczNAHym6CDX-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="251" y="535" />
+              <mxPoint x="251" y="560" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="j6xBE3WCnmiapYrJQ3py-24" value="search" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="j6xBE3WCnmiapYrJQ3py-23" vertex="1" connectable="0">
           <mxGeometry x="0.529" y="1" relative="1" as="geometry">
@@ -298,6 +303,9 @@
         </mxCell>
         <mxCell id="Rq7gey4nFNTQxT9gJuHO-7" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.services.online_hosted_services;" vertex="1" parent="1">
           <mxGeometry x="-180" y="760" width="160" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="Rq7gey4nFNTQxT9gJuHO-11" value="個人電腦HOST設定" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-165.5" y="916" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
