@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T03:55:55.964Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="Rf5v8Ldcp3UkcMWmkb_R" version="22.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-01T03:59:02.395Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="A-w3VmznKPqSRBrAOZet" version="22.1.5" type="github" pages="2">
   <diagram name="前台技術" id="7c8qTNGZ60hDIs-IYrjG">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -113,7 +113,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SK9G2S4Pz-7HgGzB03OG" name="部屬架構">
-    <mxGraphModel dx="2022" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1646" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -346,13 +346,24 @@
         <mxCell id="Rq7gey4nFNTQxT9gJuHO-31" value="WalkerLand" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="30" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Rq7gey4nFNTQxT9gJuHO-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KeQMEPedSJVTYiUPTLQI-2" target="Rq7gey4nFNTQxT9gJuHO-31">
+        <mxCell id="Rq7gey4nFNTQxT9gJuHO-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="KeQMEPedSJVTYiUPTLQI-2" target="Rq7gey4nFNTQxT9gJuHO-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Rq7gey4nFNTQxT9gJuHO-35" value="JWT Login&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Rq7gey4nFNTQxT9gJuHO-34">
           <mxGeometry x="0.1556" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Rq7gey4nFNTQxT9gJuHO-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="Rq7gey4nFNTQxT9gJuHO-36" target="j6xBE3WCnmiapYrJQ3py-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rq7gey4nFNTQxT9gJuHO-38" value="&lt;font color=&quot;#ff3333&quot;&gt;JWT Login 沒串接好&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Rq7gey4nFNTQxT9gJuHO-37">
+          <mxGeometry x="-0.0887" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rq7gey4nFNTQxT9gJuHO-36" value="Stage WalkerLand" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1060" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
