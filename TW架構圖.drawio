@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T01:55:15.296Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="jsRq5tCQBzLrH086pG6p" version="22.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-01T03:35:59.469Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="TK9jxbRO_KEJOBOwX5GF" version="22.1.5" type="github" pages="2">
   <diagram name="前台技術" id="7c8qTNGZ60hDIs-IYrjG">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -177,7 +177,7 @@
             <mxPoint x="-280" y="435" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j6xBE3WCnmiapYrJQ3py-29" value="URL:https://taipeiwalker.walkerland.com.tw/" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="j6xBE3WCnmiapYrJQ3py-1" vertex="1" connectable="0">
+        <mxCell id="j6xBE3WCnmiapYrJQ3py-29" value="前台:https://taipeiwalker.walkerland.com.tw/" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="j6xBE3WCnmiapYrJQ3py-1" vertex="1" connectable="0">
           <mxGeometry x="0.0745" y="-1" relative="1" as="geometry">
             <mxPoint x="-49" y="-12" as="offset" />
           </mxGeometry>
@@ -208,13 +208,27 @@
         <mxCell id="j6xBE3WCnmiapYrJQ3py-37" value="&lt;h2 style=&quot;box-sizing: border-box; font-variant-ligatures: none; margin-top: 0px; margin-bottom: 0px; line-height: 1.25rem; color: rgb(51, 50, 56); font-size: 0.875rem; font-family: &amp;quot;GitLab Sans&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: left; background-color: rgb(255, 255, 255);&quot; class=&quot;gl-font-base gl-line-height-20 gl-my-0&quot;&gt;&lt;a style=&quot;box-sizing: border-box; color: rgb(51, 50, 56); background-color: transparent; margin-right: 0.5rem;&quot; href=&quot;https://gitlab.gamania.com/walkermedia/taipei_backend&quot; class=&quot;text-plain gl-mr-3 js-prefetch-document&quot;&gt;taipei_backend&lt;/a&gt;項目&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="j6xBE3WCnmiapYrJQ3py-4" vertex="1">
           <mxGeometry y="220" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j6xBE3WCnmiapYrJQ3py-13" value="PGC" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="Rq7gey4nFNTQxT9gJuHO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j6xBE3WCnmiapYrJQ3py-13" target="Rq7gey4nFNTQxT9gJuHO-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-240" y="810" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-350" y="620" />
+              <mxPoint x="-350" y="838" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rq7gey4nFNTQxT9gJuHO-9" value="前台:stage.taipeiwalker.walkerland.com.tw&lt;br&gt;後台:stage.taipei-backend.walkerland.com.tw" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Rq7gey4nFNTQxT9gJuHO-8">
+          <mxGeometry x="-0.3333" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j6xBE3WCnmiapYrJQ3py-13" value="內部人員" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-330" y="590" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j6xBE3WCnmiapYrJQ3py-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.497;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="j6xBE3WCnmiapYrJQ3py-13" target="bmBmT1ZASczNAHym6CDX-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j6xBE3WCnmiapYrJQ3py-27" value="URL:http://taipei-backend.walkerland.com.tw/" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="j6xBE3WCnmiapYrJQ3py-14" vertex="1" connectable="0">
+        <mxCell id="j6xBE3WCnmiapYrJQ3py-27" value="後台:http://taipei-backend.walkerland.com.tw/" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="j6xBE3WCnmiapYrJQ3py-14" vertex="1" connectable="0">
           <mxGeometry x="-0.1172" y="3" relative="1" as="geometry">
             <mxPoint x="-57" y="-17" as="offset" />
           </mxGeometry>
@@ -278,6 +292,12 @@
         </mxCell>
         <mxCell id="Rq7gey4nFNTQxT9gJuHO-1" value="Mysql" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="j6xBE3WCnmiapYrJQ3py-39">
           <mxGeometry x="30" y="220" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rq7gey4nFNTQxT9gJuHO-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rq7gey4nFNTQxT9gJuHO-7" target="j6xBE3WCnmiapYrJQ3py-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rq7gey4nFNTQxT9gJuHO-7" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.services.online_hosted_services;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="760" width="160" height="156" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
