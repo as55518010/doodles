@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T03:48:04.691Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="rz7JH23SFvsMS1nTGNvK" version="22.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-01T03:48:42.307Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="La09nGyzdsDuw5ygxh3D" version="22.1.5" type="github" pages="2">
   <diagram name="前台技術" id="7c8qTNGZ60hDIs-IYrjG">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -340,8 +340,8 @@
         <mxCell id="Rq7gey4nFNTQxT9gJuHO-27" value="AWS" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="459.25" y="250" width="290.75" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="KeQMEPedSJVTYiUPTLQI-7" value="RDS正式機" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Rq7gey4nFNTQxT9gJuHO-27" vertex="1">
-          <mxGeometry x="42.879999999999995" y="140" width="80" height="30" as="geometry" />
+        <mxCell id="KeQMEPedSJVTYiUPTLQI-7" value="RDS正式機(Mysql)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Rq7gey4nFNTQxT9gJuHO-27" vertex="1">
+          <mxGeometry x="22.879999999999995" y="140" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
